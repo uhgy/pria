@@ -1,0 +1,14 @@
+{
+    "name": "hgyu/redis_in_action",
+    "require": {
+        "predis/predis": "^1.0",
+        "phpunit/phpunit": "^5.3",
+        "filp/whoops": "2.0.0"
+    },
+    "authors": [
+        {
+            "name": "hgyu",
+            "email": "huanggongyu@foxmail.com"
+        }
+    ]
+}
